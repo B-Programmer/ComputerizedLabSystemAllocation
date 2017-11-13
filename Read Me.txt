@@ -1,0 +1,4 @@
+This application was developed by B. Programmer
+Programming Language used: C#
+The application is designed to allocate computers to staff and student of 
+Federal Polytechnic, Offa, Kwara State.
